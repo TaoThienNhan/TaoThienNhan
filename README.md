@@ -18,7 +18,7 @@
 
 - A passionate and enthusiastic website developer.
 - Besides web programming, I have a passion for building servers.
-- Currently learning Web Development by SSelf
+- Currently learning Web Development.
 - Personal website [Tào Thiện Nhân](https://taothiennhan.com)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://taothiennhan.com)
 
