@@ -96,7 +96,8 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taothiennhan&theme=react&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taothiennhan&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br>
@@ -141,6 +142,5 @@
 ---
 
 <br>
-Profile: [Tào Thiện Nhân](https://github.com/taothiennhan)
-
+Tào Thiện Nhân <br>
 Last Edited on: 05/21/2023
